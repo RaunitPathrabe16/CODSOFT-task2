@@ -28,7 +28,6 @@ Below is a preview of the calculator interface:
 
 ![Calculator Screenshot1]("C:\Users\pathr\Downloads\Basic Calculator Screenshot1.png")
 ![Calculator Screenshot2]("C:\Users\pathr\Downloads\Basic Calculator Screenshot2.png")
-
 ## 🎥 Demo Video
 
 Watch the demo video showcasing the calculator in action:  
