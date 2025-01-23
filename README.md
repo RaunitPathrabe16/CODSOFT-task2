@@ -26,13 +26,13 @@ The **Basic Calculator** is a GUI-based application built using Python. It provi
 
 Below is a preview of the calculator interface:
 
-![Calculator Screenshot1]("C:\Users\pathr\Downloads\Basic Calculator Screenshot1.png")
-![Calculator Screenshot2]("C:\Users\pathr\Downloads\Basic Calculator Screenshot2.png")
+![Basic Calculator Screenshot1](https://github.com/user-attachments/assets/fd7ae893-bba2-4996-bf65-ad62743727ed)
+
+![Basic Calculator Screenshot2](https://github.com/user-attachments/assets/09d472c5-ba15-4756-90e3-6be0487eb45d)
+
 ## 🎥 Demo Video
 
-Watch the demo video showcasing the calculator in action:  
-[Demo Video Link]("C:\Users\pathr\Downloads\Demo.mp4")
-
+Watch the demo video showcasing the calculator in action: https://github.com/user-attachments/assets/40e50a32-c4c1-4928-9552-dbc2106934d6
 
 📝 Usage
 Enter numbers using the buttons or your keyboard.
