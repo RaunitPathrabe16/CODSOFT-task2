@@ -1,6 +1,4 @@
 # Basic Calculator
-![Calculator Screenshot1]("C:\Users\pathr\Downloads\Basic Calculator Screenshot1.png")
-![Calculator Screenshot2]("C:\Users\pathr\Downloads\Basic Calculator Screenshot2.png")
 
 ## 📖 Overview
 
